@@ -1,0 +1,10 @@
+# TensorFlow Quantum requires specific versions of TensorFlow and other dependencies
+tensorflow-quantum>=0.7.2
+tensorflow>=2.7.0,<2.10.0
+tensorflow-probability>=0.15.0,<0.18.0
+numpy>=1.19.5,<2.0.0
+scikit-learn>=1.0.0,<2.0.0
+pandas>=1.3.0,<2.0.0
+matplotlib>=3.4.0,<4.0.0
+seaborn>=0.11.0,<0.13.0
+cirq>=1.5.0
